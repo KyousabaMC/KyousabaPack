@@ -1,0 +1,67 @@
+{
+    "providers": [
+        {
+            "file": "kyousaba:font/logo/logo-long-1.png",
+            "chars": [
+                "\ue238"
+            ],
+            "height": 50,
+            "ascent": 50,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/logo/logo-long-2.png",
+            "chars": [
+                "\ue239"
+            ],
+            "height": 50,
+            "ascent": 50,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/logo/logo-long-3.png",
+            "chars": [
+                "\ue240"
+            ],
+            "height": 50,
+            "ascent": 50,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/logo/logo2.png",
+            "chars": [
+                "\ue241"
+            ],
+            "height": 50,
+            "ascent": 50,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/prefix/moderator.png",
+            "chars": [
+                "\ue0a2"
+            ],
+            "height": 30,
+            "ascent": 18,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/prefix/admin.png",
+            "chars": [
+                "\ue0a3"
+            ],
+            "height": 30,
+            "ascent": 18,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/prefix/owner.png",
+            "chars": [
+                "\ue0a4"
+            ],
+            "height": 30,
+            "ascent": 18,
+            "type": "bitmap"
+        }
+    ]
+}
