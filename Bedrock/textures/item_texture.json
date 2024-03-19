@@ -1,0 +1,45 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "aomori_apple": {
+      "textures": "textures/items/aomori_apple"
+    },
+    "cookie_material": {
+      "textures": "textures/items/vanilla/cookie"
+    },
+    "butter": {
+      "textures": "textures/items/butter"
+    },
+    "solt": {
+      "textures": "textures/items/vanilla/sugar"
+    },
+    "sweker_meat": {
+      "textures": "textures/items/sweker_meat"
+    },
+    "pancake": {
+      "textures": "textures/items/pancake"
+    },
+    "fried_chicken": {
+      "textures": "textures/items/fried_chicken"
+    },
+    "seafood_rice_ball": {
+      "textures": "textures/items/cod"
+    },
+    "meat_rice_ball": {
+      "textures": "textures/items/vanilla/cooked_beef"
+    },
+    "sweker_fish": {
+      "textures": "textures/items/vanilla/cod"
+    },
+    "grilled_mushroom": {
+      "textures": "textures/items/vanilla/beetroot"
+    },
+    "melon_bread": {
+      "textures": "textures/items/melon_bread"
+    },
+    "asahi_super_dry": {
+      "textures": "textures/items/vanilla/honey_bottle"
+    }
+  }
+}
