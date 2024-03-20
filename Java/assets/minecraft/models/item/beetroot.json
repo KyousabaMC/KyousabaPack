@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/beetroot"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "minecraft:item/beetroot"}
+    {"predicate": {"custom_model_data":1}, "model": "kyousaba:item/grilled_mushroom"}
   ]
 }

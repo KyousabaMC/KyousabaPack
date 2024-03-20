@@ -12,6 +12,6 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data":1}, "model": "kyousaba:item/seafood_rice_ball"},
-        {"predicate": {"custom_model_data":2}, "model": "minecraft:item/cod"}
+        {"predicate": {"custom_model_data":2}, "model": "kyousaba:item/sweker_fish"}
       ]
 }

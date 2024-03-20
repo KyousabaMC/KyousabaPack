@@ -5,6 +5,6 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "kyousaba:item/sweker_meat"},
-    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/cooked_beef"}
+    {"predicate": {"custom_model_data":2}, "model": "kyousaba:item/meat_rice_ball"}
   ]
 }

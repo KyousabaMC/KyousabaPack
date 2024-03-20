@@ -6,13 +6,13 @@
       "textures": "textures/items/aomori_apple"
     },
     "cookie_material": {
-      "textures": "textures/items/vanilla/cookie"
+      "textures": "textures/items/cookie_material"
     },
     "butter": {
       "textures": "textures/items/butter"
     },
     "solt": {
-      "textures": "textures/items/vanilla/sugar"
+      "textures": "textures/items/solt"
     },
     "sweker_meat": {
       "textures": "textures/items/sweker_meat"
@@ -24,16 +24,16 @@
       "textures": "textures/items/fried_chicken"
     },
     "seafood_rice_ball": {
-      "textures": "textures/items/cod"
+      "textures": "textures/items/seafood_rice_ball"
     },
     "meat_rice_ball": {
-      "textures": "textures/items/vanilla/cooked_beef"
+      "textures": "textures/items/meat_rice_ball"
     },
     "sweker_fish": {
-      "textures": "textures/items/vanilla/cod"
+      "textures": "textures/items/sweker_fish"
     },
     "grilled_mushroom": {
-      "textures": "textures/items/vanilla/beetroot"
+      "textures": "textures/items/grilled_mushroom"
     },
     "melon_bread": {
       "textures": "textures/items/melon_bread"

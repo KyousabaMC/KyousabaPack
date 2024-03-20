@@ -4,14 +4,14 @@
         "name": "今日鯖パック",
         "description": "今日もお疲れ様！",
         "uuid": "0cdd83e6-4cc7-4d32-9796-7281072c721e",
-        "version": [1, 0, 0]
+        "version": [1, 0, 4]
     },
     "modules": [
         {
             "description": "今日もお疲れ様！",
             "type": "resources",
             "uuid": "498fee48-11f7-4700-b248-1e677d72ea80",
-            "version": [1, 0, 0]
+            "version": [1, 0, 4]
         }
     ]
 }
