@@ -69,8 +69,8 @@
             "chars": [
                 "\ue108"
             ],
-            "height": 32,
-            "ascent": 32,
+            "height": 8,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
@@ -78,8 +78,8 @@
             "chars": [
                 "\ue109"
             ],
-            "height": 32,
-            "ascent": 32,
+            "height": 8,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
@@ -87,8 +87,8 @@
             "chars": [
                 "\ue10A"
             ],
-            "height": 32,
-            "ascent": 32,
+            "height": 8,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
@@ -96,8 +96,8 @@
             "chars": [
                 "\ue10B"
             ],
-            "height": 32,
-            "ascent": 32,
+            "height": 8,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
@@ -105,8 +105,8 @@
             "chars": [
                 "\ue10C"
             ],
-            "height": 32,
-            "ascent": 32,
+            "height": 8,
+            "ascent": 8,
             "type": "bitmap"
         },
         {
@@ -114,8 +114,8 @@
             "chars": [
                 "\ue10D"
             ],
-            "height": 32,
-            "ascent": 32,
+            "height": 8,
+            "ascent": 8,
             "type": "bitmap"
         }
     ]
