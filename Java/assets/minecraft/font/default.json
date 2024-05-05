@@ -65,7 +65,7 @@
         },
 
         {
-            "file": "kyousaba:font/prefix/star/star0.png",
+            "file": "kyousaba:font/prefix/star/star1.png",
             "chars": [
                 "\ue108"
             ],
@@ -74,7 +74,7 @@
             "type": "bitmap"
         },
         {
-            "file": "kyousaba:font/prefix/star/star1.png",
+            "file": "kyousaba:font/prefix/star/star2.png",
             "chars": [
                 "\ue109"
             ],
@@ -83,7 +83,7 @@
             "type": "bitmap"
         },
         {
-            "file": "kyousaba:font/prefix/star/star2.png",
+            "file": "kyousaba:font/prefix/star/star3.png",
             "chars": [
                 "\ue10A"
             ],
@@ -92,7 +92,7 @@
             "type": "bitmap"
         },
         {
-            "file": "kyousaba:font/prefix/star/star3.png",
+            "file": "kyousaba:font/prefix/star/star4.png",
             "chars": [
                 "\ue10B"
             ],
@@ -101,7 +101,7 @@
             "type": "bitmap"
         },
         {
-            "file": "kyousaba:font/prefix/star/star4.png",
+            "file": "kyousaba:font/prefix/star/star5.png",
             "chars": [
                 "\ue10C"
             ],
@@ -110,7 +110,7 @@
             "type": "bitmap"
         },
         {
-            "file": "kyousaba:font/prefix/star/star5.png",
+            "file": "kyousaba:font/prefix/star/star6.png",
             "chars": [
                 "\ue10D"
             ],
