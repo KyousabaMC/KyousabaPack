@@ -62,6 +62,61 @@
             "height": 30,
             "ascent": 18,
             "type": "bitmap"
+        },
+
+        {
+            "file": "kyousaba:font/prefix/star/star0.png",
+            "chars": [
+                "\ue108"
+            ],
+            "height": 32,
+            "ascent": 32,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/prefix/star/star1.png",
+            "chars": [
+                "\ue109"
+            ],
+            "height": 32,
+            "ascent": 32,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/prefix/star/star2.png",
+            "chars": [
+                "\ue10A"
+            ],
+            "height": 32,
+            "ascent": 32,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/prefix/star/star3.png",
+            "chars": [
+                "\ue10B"
+            ],
+            "height": 32,
+            "ascent": 32,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/prefix/star/star4.png",
+            "chars": [
+                "\ue10C"
+            ],
+            "height": 32,
+            "ascent": 32,
+            "type": "bitmap"
+        },
+        {
+            "file": "kyousaba:font/prefix/star/star5.png",
+            "chars": [
+                "\ue10D"
+            ],
+            "height": 32,
+            "ascent": 32,
+            "type": "bitmap"
         }
     ]
 }
